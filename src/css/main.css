@@ -12,11 +12,3 @@
 	align-items: center;
 	justify-content: center;
 }
-
-.slider-container {
-	background: #90e0ef;
-	width: 100%;
-	max-width: 64rem;
-	height: 100%;
-	max-height: 32rem;
-}
